@@ -7,3 +7,5 @@
 ```
 
 ## Estrutura de organização usando o blueprint no __init__.py
+
+> Para executar: python main.py
